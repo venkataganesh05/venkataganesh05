@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venkataganesh05
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning JAVA.
+- 🌱 I’m currently learning .NET | Web Development.
 - 💞️ I’m looking to collaborate on Open Source Projects,Coding Communities,LinkedIn and Social Media.
 - 📫 Reach me https://www.linkedin.com/in/venkata-ganesh-1a7151229/
 
