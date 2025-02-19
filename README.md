@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning .NET | Web Development.
 - 💞️ I’m looking to collaborate on Open Source Projects,Coding Communities,LinkedIn and Social Media.
-- 📫 Reach me https://www.linkedin.com/in/venkata-ganesh-1a7151229/
+- 📫 Reach me https://www.linkedin.com/in/venkataganeshnanipalli/
 
 <!---
 venkataganesh05/venkataganesh05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
